@@ -77,8 +77,7 @@ Windows
 Next Steps
 ~~~~~~~~~~
 
--  Read the `Client Library Documentation`_ for Data Labeling API
-   API to see other available methods on the client.
+-  Read the `Client Library Documentation`_ for Data Labeling API to see other available methods on the client.
 -  Read the `Data Labeling API Product documentation`_ to learn
    more about the product and see How-to Guides.
 -  View this `repository’s main README`_ to see the full list of Cloud
